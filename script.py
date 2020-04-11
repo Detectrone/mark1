@@ -7,5 +7,3 @@ print(session.run(mark1))
 
 print("Merhaba Dünya")
 print("Merhaba Oğuz")
-
-print(tf.__version__)
